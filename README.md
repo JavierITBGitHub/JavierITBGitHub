@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Javi](https://github.com/JavierITBGitHub/JavierITBGitHub/blob/main/octoCatDive.jpeg) "Don't worry be Javi")
+![Javi](https://github.com/JavierITBGitHub/JavierITBGitHub/blob/main/octoCatDive.jpeg) Don't worry be Javi
 
 
 <!--
