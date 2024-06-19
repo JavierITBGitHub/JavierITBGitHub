@@ -1,11 +1,9 @@
 ## Hi there 👋
+![Javi]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/JavierITBGitHub/JavierITBGitHub/blob/main/octoCatDive.jpeg) "Don't worry be Javi")
+
 
 <!--
 **JavierITBGitHub/JavierITBGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-![Javi]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/JavierITBGitHub/JavierITBGitHub/blob/main/octoCatDive.jpeg) "Don't worry be Javi")
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
